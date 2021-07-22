@@ -1,4 +1,4 @@
-# Confibeans
+# Confibeans - (Internship project under [Cere Labs](https://cerelabs.com/))
 
 ## About
 
